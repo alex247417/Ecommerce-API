@@ -46,7 +46,8 @@ builder.Services.AddCors(options =>
     {
         policy.WithOrigins(
                 "http://localhost:5173",
-                "https://ecommerce-front-gules.vercel.app"
+                "https://ecommerce-front-gules.vercel.app",
+                "https://ecommerce-front-e0p1pjf6v-alex247417s-projects.vercel.app"
             )
             .AllowAnyHeader()
             .AllowAnyMethod();
