@@ -137,3 +137,8 @@ C:\Users\alex2\OneDrive\Documentos\EcommerceAPI\EcommerceAPI\bin\Debug\net9.0\Mi
 C:\Users\alex2\OneDrive\Documentos\EcommerceAPI\EcommerceAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\alex2\OneDrive\Documentos\EcommerceAPI\EcommerceAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\alex2\OneDrive\Documentos\EcommerceAPI\EcommerceAPI\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alex2\OneDrive\Documentos\EcommerceAPI\EcommerceAPI\obj\Debug\net9.0\EcommerceAPI.sourcelink.json
+C:\Users\alex2\OneDrive\Documentos\EcommerceAPI\EcommerceAPI\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\alex2\OneDrive\Documentos\EcommerceAPI\EcommerceAPI\bin\Debug\net9.0\Stripe.net.dll
+C:\Users\alex2\OneDrive\Documentos\EcommerceAPI\EcommerceAPI\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\alex2\OneDrive\Documentos\EcommerceAPI\EcommerceAPI\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
