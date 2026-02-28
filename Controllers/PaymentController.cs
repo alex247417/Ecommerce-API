@@ -41,8 +41,8 @@ public class PaymentController : ControllerBase
 
             var items = order.Items.Select(i => (i.Product.Nome, i.Preco, i.Quantidade)).ToList();
 
-            var successUrl = $"http://localhost:5173/orders?success=true&orderId={orderId}";
-            var cancelUrl = $"http://localhost:5173/cart?cancelled=true";
+            var successUrl = $"https://ecommerce-front-gules.vercel.app/orders?success=true&orderId={orderId}";
+            var cancelUrl = $"https://ecommerce-front-gules.vercel.app/cart?cancelled=true";
 
             var url = await _paymentService.CreateCheckoutSession(items, successUrl, cancelUrl);
 
